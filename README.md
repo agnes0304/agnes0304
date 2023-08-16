@@ -1,7 +1,7 @@
 # Jiwoo Choi  /  Agnes
 #### My code may sink, but at least I can swim🤿
 
-Greetings, I'm Agnes, though you may refer to me as Aggie. Currently, I am immersing myself in the exciting domain of computer science engineering. Although my formal education is in West Asian languages and civilizations and Political Science and International Relations, the field of computer science has captured my curiosity. Someday, I hope to be able to create programs that make learning fun for kids, and I am committed to exploring this field further.
+Greetings, I'm Agnes, though you may refer to me as Aggie. Currently, I am immersing myself in the exciting domain of computer science engineering. Although my formal education is in 'West Asian languages and civilizations' and 'Political Science and International Relations', the field of computer science has captured my curiosity. Someday, I hope to be able to create programs that make learning fun for kids, and I am committed to exploring this field further.
 
 Outside the realm of technology, my interests are as diverse as the ocean waves. A scuba diving license attests to my love for the water, and swimming and global exploration are pursuits I cherish. My passion for history has also led me to the rewarding experience of teaching it to the younger generation.
 
