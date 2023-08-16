@@ -9,10 +9,6 @@ I am driven by the aspiration that my skills, one day, will positively impact th
 
 ---
 
-🚧 ONGOING... 🚧
-
----
-
 ### Tech Stack
 <div align=left>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
