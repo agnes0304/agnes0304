@@ -1,5 +1,5 @@
 # Jiwoo Choi  /  Agnes
-#### My code may sink, but at least I can swim🤿
+### My code may sink, but at least I can swim🤿
 
 Greetings, I'm Agnes, though you may refer to me as Aggie. Currently, I am immersing myself in the exciting domain of computer science engineering. Although my formal education is in 'West Asian languages and civilizations' and 'Political Science and International Relations', the field of computer science has captured my curiosity. Someday, I hope to be able to create programs that make learning fun for kids, and I am committed to exploring this field further.
 
