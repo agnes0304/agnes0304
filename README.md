@@ -1,11 +1,9 @@
 # Jiwoo Choi
 ### My code may sink, but at least I can swim🤿
 
-Greetings, I'm Jiwoo. Currently, I am immersing myself in the exciting domain of computer science engineering. Although my formal education is in 'West Asian languages and civilizations' and 'Political Science and International Relations', the field of computer science has captured my curiosity. Someday, I hope to be able to create programs that make learning fun for kids, and I am committed to exploring this field further.
+Hi, I'm Jiwoo. Bridging my journey from West Asian studies and political science to the world of computer science engineering, I find myself captivated by the power of technology. My academic background has fueled a strong interest in education and a deep appreciation for global exploration. I see myself as a programmer who uses technology to create solutions that really make a difference. I always keep in mind the people who will use what I build. 
 
-Outside the realm of technology, my interests are as diverse as the ocean waves. A scuba diving license attests to my love for the water, and swimming and global exploration are pursuits I cherish. My passion for history has also led me to the rewarding experience of teaching it to the younger generation.
-
-I am driven by the aspiration that my skills, one day, will positively impact the lives of those I hold dear.
+Outside of tech, I'm an avid traveler and scuba diver, passionate about learning and sharing knowledge. I'm on a path to make meaningful contributions through technology, aiming to positively influence those around me."
 
 </br>
 
