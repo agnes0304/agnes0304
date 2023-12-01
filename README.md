@@ -9,32 +9,43 @@ I am driven by the aspiration that my skills, one day, will positively impact th
 
 </br>
 
-## PROJECT
+## PROJECTs
 
 
 </br>
 
-## STACK
-### F.E
-<div align=left>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=flat&logo=Typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React Toolkit-764ABC?style=flat&logo=Redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=Css3o&logoColor=white" />
-</div>
-
-### B.E
-<div align=left>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgresql-0064a5?style=flat&logo=Postgresql&logoColor=white" />
-</div>
+## TOOLs
 
 
+<table>
+<tr>
+<th align="center">
+<img width="441">
+<p> 
+<small>
+Frontend
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441">
+<p> 
+<small>
+Backend
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<div align=center gap="10px">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Typescript-007acc?style=flat&logo=Typescript&logoColor=white" /></br><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></br><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwindcss&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React Toolkit-764ABC?style=flat&logo=Redux&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=Css3o&logoColor=white" /></div>
+</td>
+<td align="center">
+<div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></br><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Postgresql-0064a5?style=flat&logo=Postgresql&logoColor=white" /></div>
+</td>
+</tr>
+</table>
 
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact">
