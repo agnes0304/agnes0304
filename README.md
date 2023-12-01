@@ -51,4 +51,4 @@ Backend
 </table>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact&theme=outrun">
