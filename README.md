@@ -20,7 +20,7 @@ I am driven by the aspiration that my skills, one day, will positively impact th
 <table align="center">
 <tr>
 <th align="center">
-<img width="385" height="1">
+<img width="380" height="1">
 <p> 
 <small>
 Frontend
@@ -28,7 +28,7 @@ Frontend
 </p>
 </th>
 <th align="center">
-<img width="385" height="1">
+<img width="380" height="1">
 <p> 
 <small>
 Backend
