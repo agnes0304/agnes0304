@@ -3,7 +3,7 @@
 
 Hi, I'm Jiwoo. Bridging my journey from West Asian studies and political science to the world of computer science engineering, I find myself captivated by the power of technology. My academic background has fueled a strong interest in education and a deep appreciation for global exploration. I see myself as a programmer who uses technology to create solutions that really make a difference. I always keep in mind the people who will use what I build. 
 
-Outside of tech, I'm an avid traveler and scuba diver, passionate about learning and sharing knowledge. I'm on a path to make meaningful contributions through technology, aiming to positively influence those around me."
+Outside of tech, I'm an avid traveler and scuba diver, passionate about learning and sharing knowledge. I'm on a path to make meaningful contributions through technology, aiming to positively influence those around me.
 
 </br>
 
