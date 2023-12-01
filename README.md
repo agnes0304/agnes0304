@@ -29,8 +29,9 @@ I am driven by the aspiration that my skills, one day, will positively impact th
 ### B.E
 <div align=left>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgresql-0064a5?style=flat&logo=Postgresql&logoColor=white" />
 </div>
 
 
