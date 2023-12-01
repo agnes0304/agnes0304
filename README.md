@@ -10,9 +10,8 @@ Outside of tech, I'm an avid traveler and scuba diver, passionate about learning
 ## PROJECTs
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot&theme=shades-of-purple)](https://github.com/agnes0304/GPTarot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=chronos-nextjs&theme=shades-of-purple)](https://github.com/agnes0304/chronos-nextjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot&theme=outrun)](https://github.com/agnes0304/GPTarot)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=chronos-nextjs&theme=outrun)](https://github.com/agnes0304/chronos-nextjs)
 
 
 
