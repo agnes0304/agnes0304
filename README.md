@@ -14,7 +14,7 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 </div>
 </br>
 
-## TOOLs
+## Tools
 
 <h4 align="center">Languages</h4>
 <div align="center">
@@ -43,7 +43,7 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 </br>
 </br>
 
-## PROJECTs
+## Projects
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot)](https://github.com/agnes0304/GPTarot)&nbsp;&nbsp;
