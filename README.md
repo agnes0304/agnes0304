@@ -4,6 +4,8 @@
 
 <h3 align="center">My code may sink, but at least I can swim🤿</h3>
 <p align="center">공부하는 걸 좋아하는 🐥 프론트엔드 엔지니어입니다. </p>
+<p align="center">어떤 상황이든 개의치 않고 그 속에서 유영할 수 있는 태도를 지향합니다.</p>
+
 </br>
 <div align="center">
 <p>Email: jiwoochoi0304@gmail.com</br>
