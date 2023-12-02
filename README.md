@@ -8,7 +8,7 @@
 
 </br>
 <div align="center">
-<p>Email: jiwoochoi0304@gmail.com</br>
+<p>Contact: jiwoochoi0304@gmail.com</br>
 Resume: 공사중...</br>
 Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 </div>
