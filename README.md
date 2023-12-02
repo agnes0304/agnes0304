@@ -1,6 +1,6 @@
 # Jiwoo Choi
 
-<p align="right"><a href="[https://github.com/agnes0304/agnes0304/edit/main/README.md#hi-im-jiwoo](https://github.com/agnes0304#hi-im-jiwoo)">English Intro.🇺🇸</a></p>
+<p align="right"><a href="https://github.com/agnes0304#hi-im-jiwoo">English Intro.🇺🇸</a></p>
 
 <h3 align="center">My code may sink, but at least I can swim🤿</h3>
 <p align="center">공부하는 걸 좋아하는 🐥 프론트엔드 엔지니어입니다. </p>
