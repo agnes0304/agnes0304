@@ -46,7 +46,8 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 ## PROJECTs
 <div align="center">
   
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot)](https://github.com/agnes0304/GPTarot)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=chronos-nextjs)](https://github.com/agnes0304/chronos-nextjs)
 
 </div>
 
