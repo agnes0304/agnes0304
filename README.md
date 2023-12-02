@@ -27,8 +27,8 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 <h4 align="center">Frameworks</h4>
 <div align="center">
 <img height="50" width="50" src="https://cdn.simpleicons.org/react/#61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn.simpleicons.org/next.js/black" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn.simpleicons.org/flask/black" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/nextdotjs/black/white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/flask/black/white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" />
 </div>
 </br>
