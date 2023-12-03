@@ -74,6 +74,7 @@ Outside of tech, I'm an avid traveler and scuba diver, passionate about learning
 
 
 <div align="right">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fagnes0304&count_bg=%23B389F2&title_bg=%23404040&icon=&icon_color=%23FFFFFF&title=%F0%9F%96%90%F0%9F%8F%BB&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fagnes0304&count_bg=%23AC84FF&title_bg=%233D3D3D&icon=&icon_color=%23E7E7E7&title=%F0%9F%96%90%F0%9F%8F%BB&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
