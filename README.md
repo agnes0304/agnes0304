@@ -18,7 +18,7 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 <h4 align="center">Languages</h4>
 <div align="center">
 <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="30" width="30" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://cdn.simpleicons.org/python/#3776AB" />
 </div>
 </br>
