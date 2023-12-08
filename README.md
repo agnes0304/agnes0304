@@ -11,10 +11,12 @@
 <p>Contact: jiwoochoi0304@gmail.com</br>
 Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 </div>
+
 </br>
 
 ## Tools
 
+</br>
 <h4 align="center">Languages</h4>
 <div align="center">
 <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,22 +44,45 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 </br>
 </br>
 
+
 ## Projects
+
+</br>
+
 <div align="center">
+
+  ### 👤 개인  
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot)](https://github.com/agnes0304/GPTarot)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot)](https://github.com/agnes0304/GPTarot)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=chronos-nextjs)](https://github.com/agnes0304/chronos-nextjs)
 
 </div>
 
+
+
+<div align="center">
+
+  ### 👥 팀
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=smoothie)](https://github.com/agnes0304/smoothie)
+
+</div>
+
+
 </br>
 </br>
 </br>
+
+
 
 ## My github condition is...
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact">
 </div>
+
+</br>
+</br>
+</br>
 
 ---
 
@@ -67,7 +92,6 @@ Bridging my journey from West Asian studies and political science to the world o
 
 Outside of tech, I'm an avid traveler and scuba diver, passionate about learning and sharing knowledge. I'm on a path to make meaningful contributions through technology, aiming to positively influence those around me.
 
-</br>
 </br>
 </br>
 
