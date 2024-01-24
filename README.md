@@ -78,11 +78,25 @@ Blog: <a href="https://velog.io/@inmyhead" target="_blank">@inmyhead</a></p>
 ## My github condition is...
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact">
+
+</br>
+</br>
+
+  #### Currently exploring
+  
+<div>
+<img height="50" width="50" src="https://cdn.simpleicons.org/jest/#C21325" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/vitest/#6E9F18" />
 </div>
+
+</div>
+
+
 
 </br>
 </br>
 </br>
+
 
 ---
 
