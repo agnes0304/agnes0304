@@ -7,7 +7,7 @@
 <ul>
 <li>👩🏻‍💻 계속 이것저것 공부하는 프론트엔드 엔지니어입니다.</li>
 <li><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> 를 공부하고 있어요.</li>
-<li><a href="mailto:jiwoochoi&#48;&#51;&#48;&#52;&#64;gmail&#46;com"><img src="https://img.shields.io/badge/jiwoochoi0304@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a></li>
+<li><a href="mailto:jiwoochoi0304gmail.com?subject=[from Github]"><img src="https://img.shields.io/badge/jiwoochoi0304@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a></li>
 </ul>
 
 </br>
