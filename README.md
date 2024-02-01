@@ -5,7 +5,9 @@
 
 </br>
 <div>
-<a href="mailto:dj.jiwoochoi0304@gmail.com"><img src="https://raw.githubusercontent.com/agnes0304/agnes0304/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="jiwoo choi | Gmail" width="35px"/></a>
+Contact: <a href="mailto:jiwoochoi&#48;&#51;&#48;&#52;&#64;gmail&#46;com">
+  <img src="path_to_your_gmail_icon" alt="Email" style="height: 30px; width: 30px;">
+</a>
 </div>
 
 </br>
