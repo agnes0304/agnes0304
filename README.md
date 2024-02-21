@@ -1,6 +1,6 @@
 # Jiwoo Choi
 
-<p align="right">🇺🇸<a href="https://github.com/agnes0304#hi-im-jiwoo">English Intro</a></p>
+<p align="right">🇺🇸<a href="https://github.com/agnes0304#-hi-im-jiwoo">English Intro</a></p>
 
 <h3>My code may sink, but at least I can swim🤿</h3>
 <p>어떤 상황이든 개의치 않고 그 속에서 유영할 수 있는 태도를 지향합니다.</p>
