@@ -4,11 +4,10 @@
 
 <h3>My code may sink, but at least I can swim🤿</h3>
 <p>어떤 상황이든 개의치 않고 그 속에서 유영할 수 있는 태도를 지향합니다.</p>
-<ul>
-<li>계속 이것저것 공부하는 🐥 프론트엔드 엔지니어입니다.</li>
-<li><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> 를 공부하고 있어요.</li>
-<li>📬 jiwoochoi0304@gmail.com</li>
-</ul>
+
+- **JS**, **React**, **Next.js**을 주로 사용합니다.
+- 현재 **React Native**를 공부하고 있어요 🌱 
+- 📬 **jiwoochoi0304@gmail.com**
 
 </br>
 </br>
