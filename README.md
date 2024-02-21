@@ -69,14 +69,24 @@
 
 
 
-# Hi, I'm Jiwoo.
+# 👋 Hi, I'm Jiwoo.
 
 I'm a history buff turned programmer, with a background in West Asian and diplomatic studies. My journey has led me to fascinating discoveries, like the dual meaning of **`IR`**—from **`International Relations`** in diplomacy to **`Information Retrieval`** in tech😁. Bridging these worlds, I focus on enhancing frontend creativity and backend functionality in my personal projects.
 
 Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate about learning and sharing knowledge. I'm on a path to make meaningful contributions through technology, aiming to positively influence those around me.
 
 </br>
+
+- 🌐 I'm currently working on using **JS(+TS)**, **React**, and **Next.js**
+- 🌱 I'm currently learning **React Native**
+- 📬 Feel free to reach out me at **jiwoochoi0304@gmail.com**
+
 </br>
+
+Thanks for stopping by my profile!
+
+
+</br></br>
 
 
 <div align="right">
