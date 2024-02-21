@@ -5,6 +5,8 @@
 <h3>My code may sink, but at least I can swim🤿</h3>
 <p>어떤 상황이든 개의치 않고 그 속에서 유영할 수 있는 태도를 지향합니다.</p>
 
+</br>
+
 - **JS**, **React**, **Next.js**을 주로 사용합니다.
 - 현재 **React Native**를 공부하고 있어요 🌱 
 - 📬 **jiwoochoi0304@gmail.com**
