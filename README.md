@@ -77,7 +77,7 @@ Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate abou
 
 </br>
 
-- 🌐 I'm currently working on using **JS(+TS)**, **React**, and **Next.js**
+- 🌐 I'm currently working on **JS(+TS)**, **React**, and **Next.js**
 - 🌱 I'm currently learning **React Native**
 - 📬 Feel free to reach out me at **jiwoochoi0304@gmail.com**
 
