@@ -6,7 +6,7 @@
 
 </br>
 
-- **JS**, **React**, **Next.js**을 주로 사용합니다.
+- **React**, **Next.js**을 주로 사용합니다.
 - 현재 **React Native**를 공부하고 있어요 🌱 
 - 📬 **jiwoochoi0304@gmail.com**
 
@@ -38,21 +38,6 @@
 </br>
 
 
-##  🗂️ Projects
-
-<div>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=GPTarot)](https://github.com/agnes0304/GPTarot)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=chronos-nextjs)](https://github.com/agnes0304/chronos-nextjs)
-</div>
-<div>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agnes0304&repo=smoothie)](https://github.com/agnes0304/smoothie)
-</div>
-
-</br>
-</br>
-</br>
 
 
 
@@ -77,7 +62,7 @@ Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate abou
 
 </br>
 
-- 🌐 I'm currently working on **JS(+TS)**, **React**, and **Next.js**
+- 🌐 I'm currently working on **React**, and **Next.js**
 - 🌱 I'm currently learning **React Native**
 - 📬 Feel free to reach out me at **jiwoochoi0304@gmail.com**
 
