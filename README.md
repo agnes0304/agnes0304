@@ -40,20 +40,6 @@
 
 
 
-
-## 📈 Github status
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes0304&layout=compact">
-</div>
-
-
-
-</br>
-</br>
-</br>
-
-
-
 # 👋 Hi, I'm Jiwoo.
 
 I'm a history buff turned programmer, with a background in West Asian and diplomatic studies. My journey has led me to fascinating discoveries, like the dual meaning of **`IR`**—from **`International Relations`** in diplomacy to **`Information Retrieval`** in tech😁. Bridging these worlds, I focus on enhancing frontend creativity and backend functionality in my personal projects.
