@@ -49,7 +49,7 @@ Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate abou
 
 - 🌐 I'm currently working on **React**, and **Next.js**
 - 🌱 I'm currently learning **React Native**
-- 📬 Feel free to reach out me at **jiwoochoi0304@gmail.com**
+- 📬 Feel free to reach out me at **<a href='mailto:jiwoochoi0304@gmail.com'>jiwoochoi0304@gmail.com</a>**
 
 </br>
 
