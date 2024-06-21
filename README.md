@@ -6,7 +6,7 @@
 
 </br>
 
-- **React**, **Next.js**, **Tailwind**을 주로 사용합니다.
+- **Next.js**, **Tailwind**을 주로 사용합니다.
 - 현재 **React Native**를 공부하고 있어요 🌱 
 - 📬 **<a href='mailto:jiwoochoi0304@gmail.com'>메일 보내기</a>**
 
