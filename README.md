@@ -6,8 +6,8 @@
 
 </br>
 
-- **Next.js**, **Tailwind**을 주로 사용합니다.
-- 현재 **React Native**를 공부하고 있어요 🌱 
+- **Next.js**, **React**를 주로 사용합니다.
+- Tailwind를 좋아해요
 - 📬 **<a href='mailto:jiwoochoi0304@gmail.com'>메일 보내기</a>**
 
 </br>
@@ -48,7 +48,6 @@ Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate abou
 </br>
 
 - 🌐 I'm currently working on **React**, and **Next.js**
-- 🌱 I'm currently learning **React Native**
 - 📬 Feel free to reach out me at **<a href='mailto:jiwoochoi0304@gmail.com'>jiwoochoi0304@gmail.com</a>**
 
 </br>
