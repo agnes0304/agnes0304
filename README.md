@@ -4,13 +4,7 @@
 
 <h3>My code may sink, but at least I can swim🤿</h3>
 
-</br>
 
-- **Next.js**, **React**를 주로 사용합니다.
-- Tailwind를 좋아해요
-- 📬 **<a href='mailto:jiwoochoi0304@gmail.com'>메일 보내기</a>**
-
-</br>
 </br>
 
 ## 💼 Tools
