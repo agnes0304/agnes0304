@@ -41,10 +41,6 @@ Outside of tech, I'm an avid traveler✈️ and scuba diver🤿, passionate abou
 
 </br>
 
-- 🌐 I'm currently working on **React**, and **Next.js**
-- 📬 Feel free to reach out me at **<a href='mailto:jiwoochoi0304@gmail.com'>jiwoochoi0304@gmail.com</a>**
-
-</br>
 
 Thanks for stopping by my profile!
 
